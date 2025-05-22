@@ -4,7 +4,7 @@ import mitImage from "../assets/img4.jpg";
 function Herosection() {
   return (
     <div>
-      <div>Home</div>
+      
       <section className="hero" style={{ position: "relative", width: "100%" }}>
         <img
           src={mitImage}
